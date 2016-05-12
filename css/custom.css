@@ -1,0 +1,81 @@
+/* Custom CSS */
+/*nav a img{
+    margin-top: -15px;   
+}*/
+
+body {
+    padding-top: 60px;
+}
+nav a img{
+    margin-top: -15px;   
+    }
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    body {
+        margin-top:10px;
+    }
+    
+}
+@media screen and (min-width:992px) and (max-width:1199px) {
+    body {
+        margin-top:10px;
+    }
+}
+@media screen and (min-width:1200px) {
+    body{
+        margin-top:10px;   
+    }
+}
+
+.skill{
+    padding-right: 30px; 
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.button-right{
+    text-align: right;
+    display: inline;
+}
+
+.portfolio-left {
+    float: left;
+    margin-right: 10px;
+}
+
+.inspiration {
+    text-align: center;   
+}
+
+.inspiration h5 {
+    color:mistyrose;
+}
+
+.inspiration p {
+    color: dimgrey;
+}
+
+small {
+    color:firebrick;
+}
+
+.footer-sociallink {
+    margin-top: 20px;
+    float: right;
+}
